@@ -4,10 +4,10 @@ Desktop Dashboard Link: https://app.powerbi.com/groups/me/reports/3e9baa08-0abb-
 
 Problem Statement:
 The year is 2016. A Video game industry analyst would like to know key details and statistics of the North American video game market from 2012
-to 2016 and Japanese video game market from 1983 to 2016 to be put inside an presentation deckfor the purpose of giving an broad overview of
+to 2016 and Japanese video game market from 1983 to 2016 to be put inside an presentation deck for the purpose of giving an broad overview of
 the video game industry to current and potiential investors & other stakeholders.
 
-Steps followed
+Steps followed:
 Step 1 : Load data into Power BI Desktop, datasets are excel xlsx files.
 Step 2 : Going into model view and link all tables using star schema (if already not done).
 Step 3: Open power query editor & look at the dataset characteristics.
